@@ -32,7 +32,7 @@ To run this project, you need:
 
 ### Compilation
 
-Use the following command to compile the code:
+Use the following command to compile the code  on Linux:
 
 ```bash
 g++ -std=c++11 -o text_editor huffman_text_editor.cpp
